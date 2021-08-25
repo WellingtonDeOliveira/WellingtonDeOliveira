@@ -6,7 +6,7 @@
 <div>
   <a href="https://github.com/WellingtonDeOliveira?tab=repositories">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=WellingtonDeOliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonDeOliveira&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonDeOliveira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Oliver-Java" height="50" width="40" src="./assets/java-original.svg">

@@ -1,11 +1,10 @@
 ## Olá, Me chamo Wellington
 
-- 🌱 Neste momento estou aprendendo React Native
+- 🌱 Neste momento estou atras de novas oportunidades como desenvolvedor back end com spring.
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-<!-- <div>
+<!-- <div style="margin-rigth: 20%">
   <a href="https://github.com/WellingtonDeOliveira?tab=repositories">
-  <img width="45%"  src="https://github-readme-stats.vercel.app/api?username=WellingtonDeOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img width="32.75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonDeOliveira&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div> -->
